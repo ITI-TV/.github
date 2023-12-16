@@ -1,5 +1,5 @@
 ## Bevenuto/a nella repository di ITI-TV 👋
-qui potrai trovare il file sorgente della mitica ITI-TV e magari in futuro anche qualcos'altro
+Qui pultroppo, almeno che tu non sia abilitato, non puoi vedere molto
 
 <!--
 
