@@ -1,5 +1,6 @@
 ## Bevenuto/a nella repository di ITI-TV 👋
-Qui pultroppo, almeno che tu non sia abilitato, non puoi vedere molto
+Se vuoi aiutarci a migliorare qualcosa c'è la documentazione e se vuoi modificare qualcosa ci sono le repo modificabili.
+### Buon Divertimento
 
 <!--
 
