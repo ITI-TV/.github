@@ -9,18 +9,18 @@ Se vuoi aiutarci a migliorare qualcosa c'è la documentazione e se vuoi modifica
   - Gabriele Bovina (Informatica 5X)
   - Samuele Marinelli (Informatica 5X)
 - Team:
-  - (Telecomunicazioni 4T)
-  - Valentina Porrino ()
+  - Erick Daniel Parra Delgado (Telecomunicazioni 4T)
+  - Valentina Porrino (Liceo artistico "Dosso Dossi" Grafica 3EF)
 
 ## A.S. 2023/2024
 - Progect Manager:
-  - Gabriele Bovina (Informatica 5X)
-  - Samuele Marinelli (Informatica 5X)
+  - Gabriele Bovina (Informatica 4X)
+  - Samuele Marinelli (Informatica 4X)
 
 ## A.S. 2022/2023
 - Progect Manager:
-  - Gabriele Bovina (Informatica 5X)
-  - Samuele Marinelli (Informatica 5X)
+  - Gabriele Bovina (Informatica 3X)
+  - Samuele Marinelli (Informatica 3X)
 - Team:
   - Classe 3X (Informatica)
 
