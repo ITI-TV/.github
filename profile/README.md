@@ -2,13 +2,34 @@
 Se vuoi aiutarci a migliorare qualcosa c'è la documentazione e se vuoi modificare qualcosa ci sono le repo modificabili.
 ### Buon Divertimento
 
-<!--
 
-**Here are some ideas to get you started:**
+# Crediti
+## A.S. 2024/2025
+- Progect Manager:
+  - Gabriele Bovina (Informatica 5X)
+  - Samuele Marinelli (Informatica 5X)
+- Team:
+  - (Telecomunicazioni 4T)
+  - Valentina Porrino ()
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## A.S. 2023/2024
+- Progect Manager:
+  - Gabriele Bovina (Informatica 5X)
+  - Samuele Marinelli (Informatica 5X)
+
+## A.S. 2022/2023
+- Progect Manager:
+  - Gabriele Bovina (Informatica 5X)
+  - Samuele Marinelli (Informatica 5X)
+- Team:
+  - Classe 3X (Informatica)
+
+## A.S. 2021/2022
+#### Progetto sospeso
+
+## A.S. 2020/2021
+- Progect Manager:
+  - Luca Corticelli (Informatica 5X)
+  - Diego Bonati (Informatica 5X)
+- Team:
+  - Classe 5X (Informatica)
