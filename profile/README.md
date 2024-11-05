@@ -8,6 +8,10 @@ A capo del progetto ci sono due project manager: studenti come noi che si occupa
 #### Ah, piccola precisazione: 
 Tutto questo è puramente volontario. Non ci sono crediti, ore di alternanza o riconoscimenti scolastici; ci si lavora fuori dall’orario scolastico, solo per la passione e la voglia di fare qualcosa di diverso e utile. Quindi, se hai tempo e voglia di imparare, sei il benvenuto!
 
+# File utili
+### [Come Contribuire](https://github.com/ITI-TV/.github/blob/main/CONTRIBUTING.md)
+### [Codice di Condotta](https://github.com/ITI-TV/.github/blob/main/CODE_OF_CONDUCT.md)
+
 # Crediti
 ### A.S. 2024/2025
 - Progect Manager:
@@ -53,3 +57,4 @@ Tutto questo è puramente volontario. Non ci sono crediti, ore di alternanza o r
   - Diego Bonati (Informatica 5X)
 - Team:
   - Classe 5X (Informatica)
+
