@@ -30,7 +30,7 @@ Questa guida contiene i passaggi per segnalare problemi (_issues_), inviare modi
 
 ## Codice di Condotta
 
-Questo progetto segue il nostro Codice di Condotta, che tutti i contributori sono tenuti a rispettare. Mantenere un ambiente collaborativo e rispettoso è importante per il successo del progetto.
+Questo progetto segue il nostro [Codice di Condotta](https://github.com/ITI-TV/.github/CODE_OF_CONDUCT.md), che tutti i contributori sono tenuti a rispettare. Mantenere un ambiente collaborativo e rispettoso è importante per il successo del progetto.
 
 
 ## Testing
