@@ -36,7 +36,6 @@ Questo progetto segue il nostro [Codice di Condotta](https://github.com/ITI-TV/.
 ## Testing
 
 Se il progetto prevede script di test o automazioni, eseguili prima di inviare le tue modifiche per assicurarti che tutto funzioni correttamente.
-Contatti
 
 ## Per domande, suggerimenti o supporto:
 
