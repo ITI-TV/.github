@@ -13,15 +13,21 @@ Se vuoi aiutarci a migliorare qualcosa c'è la documentazione e se vuoi modifica
   - Erick Daniel Parra Delgado (Telecomunicazioni 4T)
   - Andreas Fabbri (Informatica Quadriennale 4P)
   - Iuliumihail Selea (Informatica Quadriennale 4P)
-  - Valentina Porrino (Liceo artistico "Dosso Dossi" Grafica 3EF)
   - Ilaria Meliga (Informatica Quadriennale 2P)
   - Nicola Manzi (Informatica Quadriennale 2P)
   - Rita Toselli (Informatica Quadriennale 2P)
+- Aiuto Esterno:
+  - Luca Corticelli
+  - Diego Bonati
+  - Valentina Porrino (Liceo artistico "Dosso Dossi" Grafica 3EF)
 
 ## A.S. 2023/2024
 - Progect Manager:
   - Gabriele Bovina (Informatica 4X)
   - Samuele Marinelli (Informatica 4X)
+- Aiuto Esterno:
+  - Luca Corticelli
+  - Diego Bonati
 
 ## A.S. 2022/2023
 - Progect Manager:
@@ -29,6 +35,9 @@ Se vuoi aiutarci a migliorare qualcosa c'è la documentazione e se vuoi modifica
   - Samuele Marinelli (Informatica 3X)
 - Team:
   - Classe 3X (Informatica)
+- Aiuto Esterno:
+  - Luca Corticelli
+  - Diego Bonati
 
 ## A.S. 2021/2022
 #### Progetto sospeso
