@@ -9,8 +9,14 @@ Se vuoi aiutarci a migliorare qualcosa c'è la documentazione e se vuoi modifica
   - Gabriele Bovina (Informatica 5X)
   - Samuele Marinelli (Informatica 5X)
 - Team:
+  - Lorenzo Bertelli (Informatica 5X)
   - Erick Daniel Parra Delgado (Telecomunicazioni 4T)
+  - Andreas Fabbri (Informatica Quadriennale 4P)
+  - Iuliumihail Selea (Informatica Quadriennale 4P)
   - Valentina Porrino (Liceo artistico "Dosso Dossi" Grafica 3EF)
+  - Ilaria Meliga (Informatica Quadriennale 2P)
+  - Nicola Manzi (Informatica Quadriennale 2P)
+  - Rita Toselli (Informatica Quadriennale 2P)
 
 ## A.S. 2023/2024
 - Progect Manager:
