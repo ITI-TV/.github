@@ -21,3 +21,27 @@ Questa guida contiene i passaggi per segnalare problemi (_issues_), inviare modi
         Utilizza un'indentazione uniforme e nomi di variabili chiari.
 4. Testa le Modifiche: Se il progetto include test o hai aggiunto nuove funzionalità, assicurati che funzionino correttamente e che non ci siano regressioni.
 5. Descrivi la Pull Request: Fornisci un riepilogo delle modifiche apportate e spiega chiaramente cosa risolvono o aggiungono.
+
+6. Stile di Codice
+
+    Indentazione: Usa 4 spazi per ogni livello.
+    Nomi delle Variabili: Scegli nomi di variabili chiari e descrittivi.
+    Commenti: Aggiungi commenti al codice, specialmente nelle aree meno intuitive.
+
+## Codice di Condotta
+
+Questo progetto segue il nostro Codice di Condotta, che tutti i contributori sono tenuti a rispettare. Mantenere un ambiente collaborativo e rispettoso è importante per il successo del progetto.
+
+
+## Testing
+
+Se il progetto prevede script di test o automazioni, eseguili prima di inviare le tue modifiche per assicurarti che tutto funzioni correttamente.
+Contatti
+
+## Per domande, suggerimenti o supporto:
+
+    Apri una issue per domande generali o problemi.
+    In caso di necessità specifiche, puoi contattarci via email all'indirizzo: iti.tv@iticopernico.it.
+
+Grazie per il tuo contributo e il tuo tempo!
+
