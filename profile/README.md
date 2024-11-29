@@ -19,6 +19,7 @@ Tutto questo è puramente volontario. Non ci sono crediti, ore di alternanza o r
   - Samuele Marinelli (Informatica 5X)
 - Team:
   - Lorenzo Bertelli (Informatica 5X)
+  - Leonardo Salani (Informatica 5X)
   - Erick Daniel Parra Delgado (Telecomunicazioni 4T)
   - Andreas Fabbri (Informatica Quadriennale 4P)
   - Iuliumihail Selea (Informatica Quadriennale 4P)
