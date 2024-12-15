@@ -1,23 +1,39 @@
-# Bevenuto/a nella repository di ITI-TV 👋
+# Benvenuto nella repository di **ITI-TV** 👋
 
-# Chi siamo?
-Immagina di entrare a scuola e vedere dei monitor che trasmettono news, progetti, eventi e altre info utili su quello che succede nell’istituto. Ecco di cosa tratta il nostro progetto! Stiamo creando un sito web visibile su questi monitor scolastici, così che ogni studente, insegnante o ospite possa avere accesso a tutto ciò che succede in modo semplice e chiaro.
+## Chi siamo?
+ITI-TV è un progetto sviluppato da un gruppo di studenti con lo scopo di migliorare la comunicazione all'interno dell'istituto tramite monitor scolastici. Il nostro obiettivo è creare un sistema dinamico per visualizzare contenuti utili su eventi, progetti e altre informazioni scolastiche.
 
-A capo del progetto ci sono due project manager: studenti come noi che si occupano di organizzare tutto, cercare nuove persone con cui collaborare e, ovviamente, imparare a fare sempre di più. L’idea è di coinvolgere ragazzi e ragazze che abbiano voglia di mettersi alla prova e crescere insieme in un ambiente libero e stimolante.
+---
 
-#### Ah, piccola precisazione: 
-Tutto questo è puramente volontario. Non ci sono crediti, ore di alternanza o riconoscimenti scolastici; ci si lavora fuori dall’orario scolastico, solo per la passione e la voglia di fare qualcosa di diverso e utile. Quindi, se hai tempo e voglia di imparare, sei il benvenuto!
+## 🛠 **Tecnologie Utilizzate**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-# File utili
-### [Come Contribuire](https://github.com/ITI-TV/.github/blob/main/CONTRIBUTING.md)
-### [Codice di Condotta](https://github.com/ITI-TV/.github/blob/main/CODE_OF_CONDUCT.md)
+---
 
-# Crediti
+## 🚀 **Progetti e Attività**
+### 🖥️ **Monitor Scolastici**
+- **Descrizione**: Creazione di un sistema che gestisce i contenuti visualizzati sui monitor scolastici.
+
+---
+
+## 🧑‍💻 **Contribuire**
+Se vuoi contribuire a questo progetto, puoi farlo facilmente seguendo queste risorse:
+- [Come Contribuire](https://github.com/ITI-TV/.github/blob/main/CONTRIBUTING.md)
+- [Codice di Condotta](https://github.com/ITI-TV/.github/blob/main/CODE_OF_CONDUCT.md)
+
+---
+
+## 📅 **Crediti**
 ### A.S. 2024/2025
-- Progect Manager:
+- **Project Managers**:
   - Gabriele Bovina (Informatica 5X)
   - Samuele Marinelli (Informatica 5X)
-- Team:
+- **Team**:
   - Lorenzo Bertelli (Informatica 5X)
   - Leonardo Salani (Informatica 5X)
   - Erick Daniel Parra Delgado (Telecomunicazioni 4T)
@@ -26,26 +42,26 @@ Tutto questo è puramente volontario. Non ci sono crediti, ore di alternanza o r
   - Ilaria Meliga (Informatica Quadriennale 2P)
   - Nicola Manzi (Informatica Quadriennale 2P)
   - Rita Toselli (Informatica Quadriennale 2P)
-- Aiuto Esterno:
+- **Aiuto Esterno**:
   - Luca Corticelli
   - Diego Bonati
   - Valentina Porrino (Liceo artistico "Dosso Dossi" Grafica 3EF)
 
 ### A.S. 2023/2024
-- Progect Manager:
+- **Project Managers**:
   - Gabriele Bovina (Informatica 4X)
   - Samuele Marinelli (Informatica 4X)
-- Aiuto Esterno:
+- **Aiuto Esterno**:
   - Luca Corticelli
   - Diego Bonati
 
 ### A.S. 2022/2023
-- Progect Manager:
+- **Project Managers**:
   - Gabriele Bovina (Informatica 3X)
   - Samuele Marinelli (Informatica 3X)
-- Team:
+- **Team**:
   - Classe 3X (Informatica)
-- Aiuto Esterno:
+- **Aiuto Esterno**:
   - Luca Corticelli
   - Diego Bonati
 
@@ -53,9 +69,19 @@ Tutto questo è puramente volontario. Non ci sono crediti, ore di alternanza o r
 #### Progetto sospeso
 
 ### A.S. 2020/2021
-- Progect Manager:
+- **Project Managers**:
   - Luca Corticelli (Informatica 5X)
   - Diego Bonati (Informatica 5X)
-- Team:
+- **Team**:
   - Classe 5X (Informatica)
 
+---
+
+## 📫 **Contatti**
+- ✉️ Email: [iti.tv@iticopernico.it](mailto:iti.tv@iticopernico.it)
+
+---
+
+<div align="center">
+  <em>"Non è mai troppo tardi per imparare e crescere insieme!"</em>
+</div>
