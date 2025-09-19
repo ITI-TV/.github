@@ -1,5 +1,8 @@
 # Benvenuto nella repository di **ITI-TV** 👋
 
+## AVVISO!!
+Purtroppo il progetto non è ancora stato preso in mano da due nuovi project manager. A causa anche dell'incopetenza dell'istituto il progetto ad ora non risulta più attivo. Gabriele Bovina e Samuele Marinelli ci dispiace che il progetto sia ad ora morto, ma tutto questo ci ha permesso di lavorare su qualcosa di concreto per 3 anni e siamo fieri di ciò che abbiamo fatto. Negli ultimi tempi ci sono stati diversi disguidi tra Preside, professoressa referente del progetto e altri, che non ci hanno supportato adeguamente e mettendoci spesso i bastoni tra le ruote, tanto da doverci arrangiare diverse volte, durante l'orario scolastico, per avere la possibilità di proseguire nel progetto. Tutto questo stress nell'ultimo anno ci ha colpito nel profondo, ma rimaniamo fieri di tutto questo! Molti studenti ci hanno anche chiesto "Ma perchè continuate?", ma noi abbiamo sempre risposto che non ci interessava che il preside o chiunque altro ci mettessero i bastoni tra le ruote, perchè noi lo abbiamo amato e lo rifaremmo senza pensarci altre 1000 volte. Abbiamo deciso anche che le repository rimarranno pubblice e accessibile per il momento, per chiunque voglia metterci mano.
+
 ## Chi siamo?
 ITI-TV è un progetto sviluppato da un gruppo di studenti con lo scopo di migliorare la comunicazione all'interno dell'istituto tramite monitor scolastici. Il nostro obiettivo è creare un sistema dinamico per visualizzare contenuti utili su eventi, progetti e altre informazioni scolastiche.
 
@@ -29,6 +32,8 @@ Se vuoi contribuire a questo progetto, puoi farlo facilmente seguendo queste ris
 ---
 
 ## 📅 **Crediti**
+### A.S. 2025/2026
+- Progetto non più attivo...
 ### A.S. 2024/2025
 - **Project Managers**:
   - Gabriele Bovina (Informatica 5X)
